@@ -185,7 +185,7 @@
             FinVolumeAsync.TabIndex = 13;
             FinVolumeAsync.Text = "Find Volume";
             FinVolumeAsync.UseVisualStyleBackColor = true;
-            FinVolumeAsync.Click += FinVolumeAsync_Click;
+            //FinVolumeAsync.Click += FinVolumeAsync_Click;
             // 
             // btnCallApi
             // 
@@ -195,7 +195,7 @@
             btnCallApi.TabIndex = 14;
             btnCallApi.Text = "button1";
             btnCallApi.UseVisualStyleBackColor = true;
-            btnCallApi.Click += btnCallApi_Click;
+            //btnCallApi.Click += btnCallApi_Click;
             // 
             // MainForm
             // 
